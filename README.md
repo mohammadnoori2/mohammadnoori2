@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mohammadnoori2
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on Web applications
-- 📫 How to reach me ...
+- 👀 I’m interested in enterprice level software development
+- 🌱 I’m currently learning advance concept of software development
+- 💞️ I’m looking to collaborate on enterprice level applications
+- 📫 How to reach me +93771954777
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
